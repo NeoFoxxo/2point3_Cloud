@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2point3_Cloud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b16503fa6c2296b9f03781581671f03e7297841")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4b16e3944da19c31e7a57a6c502202b11c0fa8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("2point3_Cloud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2point3_Cloud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
