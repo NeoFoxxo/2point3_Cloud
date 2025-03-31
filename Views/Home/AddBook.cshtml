@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Add Book";
+}
+@model _2point3_Cloud.Models.Book
+
+<div class="text-center">
+    <h1 class="display-4">Add a book</h1>
+    <form asp-action="SubmitBook">
+        <label>Book Title</label>
+        <input class="form-control" type="text" asp-for="Title"/>
+        <button type="submit" class="btn btn-primary">Add Book</button>
+    </form>
+</div>

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2point3_Cloud", "2point3_Cloud.csproj", "{D124DF30-D7B6-4C49-A689-8F0A96212E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D124DF30-D7B6-4C49-A689-8F0A96212E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D124DF30-D7B6-4C49-A689-8F0A96212E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D124DF30-D7B6-4C49-A689-8F0A96212E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D124DF30-D7B6-4C49-A689-8F0A96212E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

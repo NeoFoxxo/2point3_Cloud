@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "View Books";
+}
+
+@model List<Book>
+
+<div class="text-center">
+
+ <h1 class="display-4">Current books in database</h1>
+  @{
+      foreach (var book in Model)
+      {
+          <p>@book.Title</p>
+      }
+  }
+</div>
