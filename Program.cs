@@ -15,6 +15,11 @@ public class Program
             options.UseNpgsql(builder.Configuration.GetConnectionString("DBConnection"))
         );
         var app = builder.Build();
+
+        // Apply migrations on app start
+        using var scope = app.Services.CreateScope();
+        var db = scope.ServiceProvider.GetRequiredService<DataContext>();
+        db.Database.Migrate();
         
         // Configure the HTTP request pipeline.
         if (!app.Environment.IsDevelopment())

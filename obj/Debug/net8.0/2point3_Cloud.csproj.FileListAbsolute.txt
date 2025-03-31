@@ -108,3 +108,4 @@
 /Users/hamish/repos/2point3_Cloud/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/hamish/repos/2point3_Cloud/obj/Debug/net8.0/2point3_Cloud.csproj.AssemblyReference.cache
 /Users/hamish/repos/2point3_Cloud/obj/Debug/net8.0/2point3_.CC04B81B.Up2Date
+/Users/hamish/repos/2point3_Cloud/obj/Debug/net8.0/2point3_Cloud.sourcelink.json
